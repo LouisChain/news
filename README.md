@@ -7,4 +7,6 @@ The project was used:
 5. Gson
 6. Glide
 7. Material component for Android
+
+<img width="200" alt="portfolio_view" src="https://raw.githubusercontent.com/huynn109/news/master/foryou.png">
 ![Screenshot|512x397, 20%](https://raw.githubusercontent.com/huynn109/news/master/foryou.png)
